@@ -23,5 +23,5 @@
 4. Run the install script.
 
     ```console
-    ./install.ps1
+    .\install.ps1
     ```
