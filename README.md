@@ -14,7 +14,13 @@
     git clone https://github.com/nilsojunior/windows-install
     ```
 
-3. Run the install script.
+3. Enable running scripts.
+
+    ```console
+    Set-ExecutionPolicy RemoteSigned
+    ```
+
+4. Run the install script.
 
     ```console
     ./install.ps1

@@ -1,8 +1,9 @@
 Spotify.Spotify
-Valve.Steam
-Blizzard.BattleNet
+# Valve.Steam
+# Blizzard.BattleNet
+RiotGames.LeagueOfLegends.BR
 Discord.Discord
-Zen-Team.Zen-Browser.Optimzed
+Zen-Team.Zen-Browser
 
 # Drivers
 Logitech.GHUB
